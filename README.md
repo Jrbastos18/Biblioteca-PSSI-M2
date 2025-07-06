@@ -6,14 +6,19 @@
 
 <h2>Índice</h2>
 <ol>
-    <li>Modelagem de Banco de Dados Relacional </li>
+    <li><a href="#MER">Modelagem de Banco de Dados Relacional</a></li>
       <ol>
           <li><a href="#Conceitual">Diagrama Entidade-Relacionamento (Modelo Conceitual)</a></li>
-          <li>Diagrama Entidade-Relacionamento (Modelo Lógico)</li>
+          <li><a href="#Logico">Diagrama Entidade-Relacionamento (Modelo Lógico)</a></li>
       </ol>   
 </ol>
 
 <h2>1.Modelagem de Banco de Dados Relacional</h2>
+<a name="MER"></a>
 <h3>i. Diagrama Entidade-Relacionamento (Modelo Conceitual)</h3>
 <a name="Conceitual"></a>
+<img src="https://github.com/Jrbastos18/Biblioteca-PSSI-M2/blob/main/src/sql/ConceitualBiblioteca1.png?raw=true" alt="DER - Diagrama de Entidade-Relacionamento Conceitual">
 
+<h3>i. Diagrama Entidade-Relacionamento (Modelo Lógico)</h3>
+<a name="Logico"></a>
+<img src="https://github.com/Jrbastos18/Biblioteca-PSSI-M2/blob/main/src/sql/LogicoBiblioteca2.png?raw=true" alt="DER - Diagrama de Entidade-Relacionamento Lógico">
